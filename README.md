@@ -46,6 +46,9 @@ int main(void)
 	printf("The process id of parent function: %d\n",p_process_id);
 	return 0; }
 ```
+
+## output :
+
 <img width="478" height="225" alt="Screenshot 2025-09-19 191245" src="https://github.com/user-attachments/assets/e4f6aff5-247b-4329-8650-3171688c9dca" />
 
 ```
@@ -67,6 +70,8 @@ exit(0);}
 }
 
 ```
+## output : 
+
 <img width="483" height="167" alt="Screenshot 2025-09-19 191737" src="https://github.com/user-attachments/assets/da7253c9-7a01-497a-8f2f-bd55298c4dfd" />
 
 ```
@@ -97,51 +102,11 @@ printf("Running ps with execlp. Now with path specified\n");
         exit(0);}
 
 ```
+
+## output : 
+
+
 <img width="694" height="835" alt="Screenshot 2025-09-19 191845" src="https://github.com/user-attachments/assets/e180fed4-9cfc-453b-9e25-954917b8ed22" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## OUTPUT
-
-
-
-The programs are executed successfully.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
