@@ -49,7 +49,7 @@ int main(void)
 
 ## output :
 
-<img width="478" height="225" alt="Screenshot 2025-09-19 191245" src="https://github.com/user-attachments/assets/e4f6aff5-247b-4329-8650-3171688c9dca" />
+<img width="803" height="383" alt="image" src="https://github.com/user-attachments/assets/094a32f3-e32c-4f0a-ae6d-959abd4ad362" />
 
 ```
 #include <stdio.h>
@@ -71,8 +71,8 @@ exit(0);}
 
 ```
 ## output : 
+![Uploading image.png…]()
 
-<img width="483" height="167" alt="Screenshot 2025-09-19 191737" src="https://github.com/user-attachments/assets/da7253c9-7a01-497a-8f2f-bd55298c4dfd" />
 
 ```
 
@@ -106,7 +106,7 @@ printf("Running ps with execlp. Now with path specified\n");
 ## output : 
 
 
-<img width="694" height="835" alt="Screenshot 2025-09-19 191845" src="https://github.com/user-attachments/assets/e180fed4-9cfc-453b-9e25-954917b8ed22" />
+<img width="790" height="447" alt="image" src="https://github.com/user-attachments/assets/32103ff5-1987-4f68-98b3-8fdfc326ac45" />
 
 
 
