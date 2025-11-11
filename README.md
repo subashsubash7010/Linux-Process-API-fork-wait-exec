@@ -71,7 +71,9 @@ exit(0);}
 
 ```
 ## output : 
-![Uploading image.png…]()
+
+<img width="768" height="276" alt="image" src="https://github.com/user-attachments/assets/8e13f8d1-f763-47fd-b311-47758e0c85e3" />
+
 
 
 ```
